@@ -1,0 +1,3 @@
+Read the data.txt file. There is base64 encoded data.
+Use base64 -d data.txt to decode the data.
+Password: pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro
