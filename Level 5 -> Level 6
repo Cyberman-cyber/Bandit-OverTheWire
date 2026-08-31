@@ -1,0 +1,6 @@
+Used find -size 1033c (c for bytes) to find the file that is 1033 bytes in size.
+Found a hidden file in a directory inside 'inhere' directory.
+Used ls -a to show all the hidden files
+Used ls -la to show the detailed info about the file.
+It is a non executable file as it did not have 'x'. (rwx, read, write, execute)
+Password: pXa26xhMWaC2SvDotA4r9EgZkulOeSBW
