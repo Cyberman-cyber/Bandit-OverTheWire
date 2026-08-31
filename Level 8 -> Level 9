@@ -1,0 +1,6 @@
+There are many duplicate lines in the data.txt file.
+Use sort to arrange them.
+uniq can only read adjacent duplicate lines. If the duplicate lines are not adjacent, it will count them as unique.
+Use pipe | to complete the command together.
+command I used [sort data.txt| uniq -u] , -u prints unique line.
+Password: EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
