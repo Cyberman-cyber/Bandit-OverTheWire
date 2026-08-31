@@ -1,0 +1,6 @@
+Logged in to bandit1 using the flag.
+Read the files in home directory.
+Found a dashed file.
+[used "cat -" but found out it doesn't display the inputs as - is interpreted as a flag.]
+used "cat ./-" to display the file inputs. (./ indicates same directory)
+Password: PK8fYLZg2hnHSz83plBL1iEPKdD3QToB
