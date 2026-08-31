@@ -1,0 +1,5 @@
+Used grep -a "===" data.txt to show binary files as text.
+Found a better alternative to display only the password...
+Used strings command and then grep "===" with the help of piping.
+strings data.txt| grep "===="
+Password: B0s2khmbT9u0geKuOoVGW3JZKhndE3BG
