@@ -1,0 +1,5 @@
+Used ls and found data.txt in the directory.
+Used (cat data.txt) to display contents in data.txt
+Used (grep "millionth" data.txt).
+Found the password stored next to millionth
+Password: VR1ljMayciFxbnUokuQmJFw6QC9VKtub
