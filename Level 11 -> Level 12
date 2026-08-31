@@ -1,0 +1,5 @@
+The data.txt file has rot13 data. (rot13 is a special case of caeser cipher where the alphabets are shifted 13 times)
+I used tr command to shift it by 13 times again to return it back to normal.
+tr 'a-zA-Z' 'n-za-mN-ZAM' < data.txt (a-z will become n-z&a-m) 
+Note : [< data.txt is input redirection. It sends the text from data.txt to the tr command.]
+Password: GROozWPO8QyN0mGrjUkID0WCYkZiQxrN
