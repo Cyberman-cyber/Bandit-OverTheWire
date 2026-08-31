@@ -1,0 +1,4 @@
+Here I found permission denied when I tried to find a file with user,group and size.
+So I redirected the standard error to /dev/null.
+I used file / -user bandit7 -group bandit6 -size 33c 2>/dev/null (/ to search the whole server) (0-standard input, 1-standard output, 2-standard error)
+Password: Bmnnvf82KzQlfxgAI2d1zYbr1u9pr3E3
