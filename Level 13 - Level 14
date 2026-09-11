@@ -1,0 +1,3 @@
+Stored the ssh key in a file using echo.
+Changed the permission of the file using chmod 700. (read[4], write[2], execute[1]) (1-owner, 2-group, 3-user)
+logged in to level 14 using ssh and linking the file using flag ssh -i.
